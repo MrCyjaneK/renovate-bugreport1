@@ -37,7 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   mobile_scanner:
     hosted: https://git.mrcyjanek.net/api/packages/mrcyjanek/pub/
-    version: 3.5.5
+    version: 3.5.7
 
 dev_dependencies:
   flutter_test:
